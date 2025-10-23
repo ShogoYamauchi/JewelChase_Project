@@ -1,0 +1,794 @@
+[
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\BlinkingComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\BlinkingComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Bullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Bullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\CameraShakeActorComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\CameraShakeActorComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyBullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyBullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyDamagedComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyDamagedComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyDeadComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\EnemyDeadComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\HelicopterAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\HelicopterAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\LineControllerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\LineControllerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceCarAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceCarAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceCar_Warning.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PoliceCar_Warning.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PredictionLine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Enemy\\PredictionLine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\FlyAwayActorComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\FlyAwayActorComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\FollowPlayerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\FollowPlayerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\InGameController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\InGameController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\InGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\InGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IBulletFactory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IBulletFactory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IDamaged.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IDamaged.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IDead.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IDead.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IMovement.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Interface\\IMovement.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\JustJumpActorComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\JustJumpActorComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\Obstacle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\Obstacle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\OilCan.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\OilCan.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\TrashCan.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Obstacle\\TrashCan.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\MoveRightComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\MoveRightComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerBullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerBullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\JewelRushComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\JewelRushComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\MoveRightComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\MoveRightComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\PlayerHitByPoliceCarComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerComponent\\PlayerHitByPoliceCarComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerSEData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Player\\PlayerSEData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\SEManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\SEManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\ItemBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\ItemBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\SmogBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\SmogBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\Stage\\StageManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\BlackOut.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\BlackOut.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\GameOver.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\GameOver.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\InGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\InGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\JJPerfectWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\JJPerfectWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\JewelGauge.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\JewelGauge.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\Pause.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\Pause.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\ScoreManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\ScoreManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\Title.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\UI\\Title.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\prototype.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\prototype.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\23cu0137\\JewelChase\\JewelChase\\Source\\prototype\\prototype.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\23cu0137\\JewelChase\\JewelChase\\.vscode\\compileCommands_JewelChase\\prototype.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
